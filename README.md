@@ -1,4 +1,4 @@
-p1.py-->Demonstrate python program to input ‘n’ employee number and name and to display all employee’s information in ascending order based upon their number - dictionary method.
+p1.py-->Demonstrate python program to input ‘n’ employee number and name and to display all employee’s information in ascending order based upon their number - dictionary method.  
 p2.py-->Demonstrate python program to form a frequency table of words in a given text.
 p3.py-->Demonstrate python program for even and odd numbers in given range.
 p4.py-->Demonstrate python program that need to purchase 100 fruits by using 100 rupees (fruits apple -5$, orange - 1$, banana - 0.5$) need the combinations
