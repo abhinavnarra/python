@@ -1,6 +1,5 @@
 #Demonstrate python program to reverse a number using recursion
 
-
 num = int(input("Please Enter any Number: "))#asking user to enter a number
 reverse = 0
 def reverse_int(num):#defining reverse_int function
